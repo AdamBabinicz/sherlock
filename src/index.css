@@ -27,7 +27,7 @@ a {
 }
 /* Menu button */
 .menu-btn {
-  position: absolute;
+  position: fixed;
   right: 80px;
   margin-top: 50px;
   z-index: 999;
